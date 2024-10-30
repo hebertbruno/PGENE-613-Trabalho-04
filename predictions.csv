@@ -1,0 +1,49 @@
+Descrição;Real;Predito
+mixer will overheat occasionally.;Eletronic;Leak
+Assembler is overheating.;Leak;Leak
+Items sometimes fall off the belt.;Mechanical;Mechanical
+Things regularly fall into the spool scanner.;Mechanical;Mechanical
+unusual sound coming from a mixer.;Mechanical;Mechanical
+A few dribbles of fluid are showing up underneath the constructing agent.;Leak;Mechanical
+Loud noise released from acute mixer.;Eletronic;Mechanical
+First item in some cases stuck in sorter spools.;Mechanical;Mechanical
+Sorter power supply has failed.;Eletronic;Eletronic
+Transport line keeps bending items.;Mechanical;Mechanical
+Slight ticking sound emitted from the mixer.;Mechanical;Mechanical
+Returned products from assembler is cracked.;Mechanical;Mechanical
+Transport line beginning to part and curve.;Mechanical;Mechanical
+Assembler over time will overheat.;Mechanical;Mechanical
+Fuse is blown in the assembler.;Eletronic;Eletronic
+Reel scanner starts cracking or bending.;Mechanical;Mechanical
+Some assembled products are cracked.;Mechanical;Mechanical
+Shrill cry from scanner PC.;Eletronic;Eletronic
+Capacitor blown in the scanner.;Eletronic;Eletronic
+Mixing coolant leaking on floor.;Leak;Leak
+Transport line beginning to part.;Mechanical;Mechanical
+Fuse blown in assembly motor.;Eletronic;Eletronic
+Items keep falling off the belt.;Mechanical;Mechanical
+Software driver is still failing.;Software;Software
+Coolant leaking from blender.;Leak;Leak
+scanner program is frozen.;Software;Eletronic
+Mixer suffers extreme overheating.;Leak;Leak
+transmission line starting to split;Mechanical;Mechanical
+Sorter engine is massively overheating.;Eletronic;Eletronic
+Mixer is releasing smoke.;Eletronic;Eletronic
+Assembler will produce bent products.;Mechanical;Mechanical
+Software driver has crashed.;Software;Software
+The sorter engine continues getting stuck.;Mechanical;Mechanical
+Back up assembler power supply burnt out.;Eletronic;Eletronic
+Materials sometimes get stuck in robot arm.;Mechanical;Mechanical
+Robot arm is emitting black smoke.;Eletronic;Eletronic
+Many defects are shown in the assembled product.;Mechanical;Mechanical
+The blender is smoking during activity.;Eletronic;Eletronic
+Rattling clunky sounds heard inside assembler pistons.;Mechanical;Mechanical
+Robot arm has generated a black smoke.;Eletronic;Eletronic
+Sorter motor seriously overheating.;Eletronic;Eletronic
+Break appearing on external board of robot arm.;Mechanical;Mechanical
+Mixer coolant leaking everywhere.;Leak;Leak
+Constant power cuts when starting sorter plant.;Eletronic;Eletronic
+Scanner programming frozen.;Software;Software
+Smoke is being emitted from robot arm.;Eletronic;Eletronic
+Robot arm, black smoke is released.;Eletronic;Eletronic
+The first product gets jammed in the spool classifier from time to time.;Mechanical;Mechanical
